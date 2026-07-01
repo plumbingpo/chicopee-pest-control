@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chicopeepestcontrolco.com/sitemap.xml
